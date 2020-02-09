@@ -1,0 +1,8 @@
+vipin:ivs:ds3:772955:50
+viraj:ivs:ds7:772972:40
+nivedita:sap:abap:772974:49
+shubha:bi:dna3:772981:30
+shweta:oracle:siebal:773011:28
+sagar:sap:basis:778125:20
+saurabh:sap:fico:772879:15
+akshay:bi:dna2:772896:10
